@@ -1,0 +1,110 @@
+What is the capital of Canada?|Ottawa
+What is 2 + 2?|4
+What is the color of the sky on a clear day?|Blue
+Name a programming language starting with J?|Java
+What is the largest planet in our solar system?|Jupiter
+What is the chemical symbol for water?|H2O
+Who wrote "Hamlet"?|Shakespeare
+What is 5 x 6?|30
+What is the freezing point of water in Celsius?|0
+What is the largest ocean on Earth?|Pacific
+What is the capital of Japan?|Tokyo
+What particle mediates the electromagnetic force?|Photon
+What is the second law of thermodynamics primarily about?|Entropy
+What is the most abundant element in the universe by mass?|Hydrogen
+What is the name of the boundary around a black hole?|Event horizon
+What gas is most responsible for the greenhouse effect?|Carbon dioxide
+What is the powerhouse of the cell?|Mitochondria
+What planet has the most moons?|Saturn
+What is the study of fungi called?|Mycology
+What is the unit of frequency?|Hertz
+What is the hardest known natural material?|Diamond
+What is the largest country by land area?|Russia
+What mountain range separates Europe and Asia?|Ural Mountains
+What desert covers much of Northern Africa?|Sahara
+What is the smallest country in the world?|Vatican City
+What is the largest island nation?|Indonesia
+What is the highest waterfall in the world?|Angel Falls
+What year did World War I begin?|1914
+What empire was ruled by Genghis Khan?|Mongol Empire
+What year did the Berlin Wall fall?|1989
+Who was the first President of the United States?|George Washington
+What war was fought between the North and South US states?|American Civil War
+Who was known as the Maid of Orléans?|Joan of Arc
+What year did the French Revolution begin?|1789
+Who discovered America in 1492?|Christopher Columbus
+Who was the first man to walk on the moon?|Neil Armstrong
+What ancient civilization built pyramids?|Egyptians
+Who was the last Tsar of Russia?|Nicholas II
+What year did WWII end?|1945
+What treaty ended WWI?|Treaty of Versailles
+What is the value of π (approx to 3 decimal places)?|3.142
+What is 13²?|169
+What is the square root of 225?|15
+What is log₁₀(100)?|2
+What is the sum of interior angles of a triangle?|180
+What is 2⁵?|32
+What is the derivative of sin(x)?|cos(x)
+What is 144 ÷ 12?|12
+What is 11³?|1331
+What is the value of e (approx)?|2.718
+What is 0 factorial?|1
+What is the next prime after 11?|13
+What is 9²?|81
+What is the cube root of 27?|3
+What is 1001 in binary?|1111101001
+What is the SI unit of pressure?|Pascal
+What subatomic particle has a negative charge?|Electron
+What is the chemical formula for sulfuric acid?|H2SO4
+What type of radiation has the shortest wavelength?|Gamma rays
+What is the main gas found in stars?|Hydrogen
+What is the study of heredity called?|Genetics
+What organ produces insulin?|Pancreas
+What is the approximate age of the Earth?|4.5 billion years
+What is the term for animals that eat both plants and meat?|Omnivores
+What is the SI unit of energy?|Joule
+What is the chemical symbol for lead?|Pb
+What is the largest part of the human brain?|Cerebrum
+What is the term for a change in DNA sequence?|Mutation
+What is the unit of electrical resistance?|Ohm
+What is the process by which plants make food?|Photosynthesis
+What is the densest planet in the solar system?|Earth
+What is the name of our galaxy?|Milky Way
+What mountain range runs along South America's west coast?|Andes
+Who was the first emperor of China?|Qin Shi Huang
+What year did the American Revolution begin?|1775
+Who was the first female Prime Minister of the UK?|Margaret Thatcher
+What empire was centered in modern-day Turkey before 1922?|Ottoman Empire
+What year did the Titanic sink?|1912
+What year did the Cold War end (approx)?|1991
+Who was the leader of Nazi Germany?|Adolf Hitler
+What ancient city was buried by Mount Vesuvius?|Pompeii
+Who was the first man in space?|Yuri Gagarin
+What year did India gain independence?|1947
+Who was the famous queen of ancient Egypt?|Cleopatra
+What document begins with "We the People"?|US Constitution
+What war was fought in Vietnam involving the US?|Vietnam War
+What year did the Great Depression begin?|1929
+What battle ended Napoleon's rule?|Battle of Waterloo
+What is 15²?|225
+What is the square root of 169?|13
+What is log₂(8)?|3
+What is 8! (factorial)?|40320
+What is the sum of angles in a quadrilateral?|360
+What is 3⁶?|729
+What is the area of a triangle formula?|1/2bh
+What is the derivative of cos(x)?|-sin(x)
+What is 121 ÷ 11?|11
+What is 12³?|1728
+What is the cube root of 64?|4
+What is the value of π² (approx)?|9.87
+What is the slope of a vertical line?|Undefined
+What is 1 factorial?|1
+What is the next prime after 17?|19
+What is 10²?|100
+What is 5³?|125
+What is the square root of 196?|14
+What is 2⁸?|256
+Who wrote "Frankenstein"?|Mary Shelley
+Who wrote "Dracula"?|Bram Stoker
+Who wrote "The Picture of Dorian Gray"?|Oscar Wilde
