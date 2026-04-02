@@ -21,8 +21,7 @@ public class QuizApp extends Application
         final Button startButton;
         final Button submitButton;
         
-        
-        
+
         primaryStage.show();
     }
     
